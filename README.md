@@ -7,7 +7,7 @@ My area of expertise is the digital processing of multidimensional signals such 
 
 I have worked as a researcher in the area of application of computer vision to vehicular traffic, developing road information extraction systems. And also in the area of object tracking and 3D modeling for application in robotics. I worked in the automotive industry developing microcontrolled systems to aid in wiring assembly.
 
-I have 11 years of teaching experience (since 2009) with several various undergraduate and graduate courses under my belt, related to the areas of circuits, communications, signal processing, and processor architecture.
+I have 14 years of teaching experience (since 2009) with several various undergraduate and graduate courses under my belt, related to the areas of circuits, communications, signal processing, and processor architecture.
 
 I am currently an independent software developer and advisor on projects related to computer vision and embedded systems. I also work as a professor in the electronic engineering department of the Pontificia Universidad Javeriana; I am in charge of several university chairs in related subjects.
 
