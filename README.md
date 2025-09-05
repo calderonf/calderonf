@@ -15,7 +15,7 @@ I love birds, photography, astronomy, 3d printing, and hiking.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calderonf&label=Profile%20views&color=0e75b6&style=flat" alt="calderonf" /> </p>
 
-- 🔭 I’m currently working on [How to make code for my classes](https://github.com/calderonf/CursoMachineLearning)
+- 🔭 I’m currently working on [A Book in spanish about Generative AI in adacemy]([https://github.com/calderonf/CursoMachineLearning](https://github.com/calderonf/IA_GENERATIVA_EN_LA_EDUCACION))
 
 - 👨‍💻 All of my projects are available at [https://github.com/calderonf/](https://github.com/calderonf/)
 
