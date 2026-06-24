@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/calderonf.png" width="150" style="border-radius:50%" alt="Francisco Calderón" />
-
 # Francisco Carlos Calderón Bocanegra, Ph.D.
 
 ### Full-time Professor & Senior Researcher · Computer Vision · AI · Embedded Systems
